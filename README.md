@@ -54,20 +54,6 @@ Building modern web applications and exploring AI-powered solutions.
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryann1312&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryann1312&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Aryann1312&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
