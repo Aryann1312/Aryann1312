@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Aryan Desale
+# Hey, I'm Aryan Desale
 
 ### Full-Stack Developer | Frontend Developer | Web Developer
 
